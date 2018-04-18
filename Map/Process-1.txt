@@ -1,6 +1,0 @@
-open 1
-open 1
-yura 1
-Megadeth 1
-Metallica 1
-Slayer 1
